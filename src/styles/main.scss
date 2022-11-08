@@ -1,0 +1,14 @@
+:root{
+    --light-color:#e8f0ff;
+    --grey-color:#605f5e;
+    --dark-blue-color:#0a2463;
+    --accent-color:#8cd790;
+    --light-blue-color:#6874e8;
+}
+
+body{
+    background-color: var(--grey-color);
+}
+.app{
+    background-color: var(--light-color);
+}
